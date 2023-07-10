@@ -40,7 +40,7 @@ See included [Jupyter Notebook](./prompt.ipynb) for details of analysis.
 
 Findings can roughly be broken down into two sections:
 ### Bar Coupons
-[Bar Coupon Observations](./prompt.ipynb#bar-coupon-observations)
+[Bar Coupons Observations](./prompt.ipynb#bar-coupons-observations)
 
 Overall, about 41% of coupons were indicated as "would use" as part of the survey.
 
