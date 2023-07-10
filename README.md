@@ -50,7 +50,7 @@ Targeting individuals between 25-30 who regularly visit bars would likely lead t
 
 
 ### Coffee House Coupons
-[Coffee House Coupon Observations](./prompt.ipynb#coffee-house-coupons-observations)
+[Coffee House Coupons Observations](./prompt.ipynb#coffee-house-coupons-observations)
 
 An analysis of coffee house coupons examining behavior across different age groups was performed.
 
